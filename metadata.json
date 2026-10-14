@@ -1,0 +1,8 @@
+{
+  "name": "Guidance App",
+  "description": "Guidance & Counseling platform prepared by Mr. Jaafar Mahdi. Features dual parent & admin authentication, dynamic survey builder & parent questionnaires, targeted announcements, and confidential counseling & complaints tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
